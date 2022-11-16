@@ -1,0 +1,14 @@
+.Gallery{
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.div{
+
+    border: 3px solid black;
+    border-radius: 10%;
+    margin: 5px;
+
+}
