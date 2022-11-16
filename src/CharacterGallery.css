@@ -17,6 +17,10 @@
     background-color: cadetblue;
 
 }
+.div:hover{
+    opacity: 0.3;
+
+}
 
 div h3{
     background-color: cadetblue;
