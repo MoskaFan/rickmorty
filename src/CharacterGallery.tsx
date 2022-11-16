@@ -17,7 +17,7 @@ export default function CharacterGallery(props: CharacterGalleryProps){
 
             return <div key={character.id} className={"div"}>
                 <h3>{character.name}</h3>
-                <img src={character.image}/><br/>
+                <img src={character.image} alt={"character"} className={"image"}/><br/>
                 <em>{character.status}</em><br/>
 
             </div>;
