@@ -1,18 +1,28 @@
+
 .Gallery{
 
     display: flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
 }
 
 .div{
 
     border: 3px solid black;
-    border-radius: 10%;
-    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.1);
-    margin: 5px;
+    border-radius: 2%;
+    box-shadow: 1px 1px 13px 14px #C7C7C7;
+    margin: 20px;
     justify-content: center;
+    background-color: cadetblue;
 
+}
+
+div h3{
+    background-color: cadetblue;
+}
+div em{
+    background-color: cadetblue;
 }
 .image{
     width: 80%;

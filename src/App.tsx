@@ -1,10 +1,8 @@
 import React from 'react';
-import './App.css';
-import './CharacterCard';
 import CharacterGallery from "./CharacterGallery";
 import {API} from './characters';
-import './CharacterCard.css';
-import './CharacterCard.css';
+import './CharacterGallery.css';
+import './App.css';
 import GreetingsComponent from "./GreetingsComponent";
 
 
